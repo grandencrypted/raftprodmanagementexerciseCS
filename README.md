@@ -27,13 +27,13 @@ Day 2:
   - Implementing 2-week sprint built around scrum ceremonies, agile w/ CI/CD, and kanban driven boards to show work item statuses 
     
     Scrum Ceremonies: 
-   Sprint Planning: The team meets and decides what they need to complete in the coming sprint. Product Owner comes ready with a prioritized product backlog,    Together with engineers, they estimate what it will take to complete the items on the list. From this information, the development team makes a sprint forecast. They will outline how much work the team can complete from the product backlog. The output of this meeting is the sprint backlog.  (1-2 hrs) 
+-  Sprint Planning: The team meets and decides what they need to complete in the coming sprint. Product Owner comes ready with a prioritized product backlog,    Together with engineers, they estimate what it will take to complete the items on the list. From this information, the development team makes a sprint forecast. They will outline how much work the team can complete from the product backlog. The output of this meeting is the sprint backlog.  (1-2 hrs) 
 
-  Daily Scrum: Daily standup meeting for the team to make sure they’re all on the same page, discuss work for the day, and call out any blockers/impediments. The output is an opportunity for the engineers to inspect and adapt the product and process on a daily basis. (15 mins) 
+-   Daily Scrum: Daily standup meeting for the team to make sure they’re all on the same page, discuss work for the day, and call out any blockers/impediments. The output is an opportunity for the engineers to inspect and adapt the product and process on a daily basis. (15 mins) 
 
-  Sprint Review:  During a sprint review, the team invites stakeholders to discuss what was completed during the sprint. The product owner and product manager adapt the product backlog as needed based on this feedback. The product owner has the option to release any of the completed functionality. A demo of what was shipped during the sprint may be part of this meeting. (Up to 4 hrs) 
+-   Sprint Review:  During a sprint review, the team invites stakeholders to discuss what was completed during the sprint. The product owner and product manager adapt the product backlog as needed based on this feedback. The product owner has the option to release any of the completed functionality. A demo of what was shipped during the sprint may be part of this meeting. (Up to 4 hrs) 
 
-  Sprint Retrospective: This is when the team reviews their work, identifying and discussing what went right and areas for improvement in the sprint. The output of this meeting is tangible plans for how to improve the process, tools, and relationships for the next sprint. (45 mins per sprint week = 1.5 hours) 
+-   Sprint Retrospective: This is when the team reviews their work, identifying and discussing what went right and areas for improvement in the sprint. The output of this meeting is tangible plans for how to improve the process, tools, and relationships for the next sprint. (45 mins per sprint week = 1.5 hours) 
 
 Day 3: 
 1. Define Roles 
